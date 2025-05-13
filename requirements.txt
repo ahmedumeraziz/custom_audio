@@ -1,0 +1,12 @@
+streamlit
+TTS
+gdown
+librosa
+pydub
+soundfile
+torch
+numpy
+langdetect
+matplotlib
+scipy
+pandas
